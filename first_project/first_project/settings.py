@@ -28,7 +28,7 @@ SECRET_KEY = 'l^n7fzq8q92uwhn1v%vmm!)nfj5&o!9h9m_bqnzz3&wq_pb6tn'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-''edwinrosemond1.pythonanywhere.com', 
+'edwinrosemond1.pythonanywhere.com', 
 ]
 
 
