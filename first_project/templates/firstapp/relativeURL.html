@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+{% extends "firstapp/index.html" %}
+  {% block body_block%}
+  <h1> welcome to relative </h1>
+    <a href="{% url 'firstapp:users' % }"> Making this pathway releative</a>
+    <a href="{% url 'admin:index' %}">click here for admin</a>
+    {% endblock %}
